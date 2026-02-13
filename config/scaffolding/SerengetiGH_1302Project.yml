@@ -3,12 +3,17 @@ info:
   model: int-scaffold
 packages:
 - name: SerengetiGH_1302Project
-  gitServerName: srcGithubCtrl_Arti
+  gitServerName: srcCtrl_github_Sourabh_shared
   gitUrl: https://github.com/ArtiKhareIBM
-  gitUsername: ArtiKhareIBM
+  gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
 - name: LowerFSPackage
-  gitServerName: srcGithubCtrl_Arti
+  gitServerName: srcCtrl_github_Sourabh_shared
+  gitUrl: https://github.com/ArtiKhareIBM
+  gitUsername: sourabh-harkawat-0058QC744
+  gitBranch: main
+- name: GithubPackageDebuglog
+  gitServerName: src_shared_GithubCtrl_Arti
   gitUrl: https://github.com/ArtiKhareIBM
   gitUsername: ArtiKhareIBM
   gitBranch: main
